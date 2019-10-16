@@ -1,10 +1,12 @@
 public class Main {
 
-   public void method1(){
-	   
+   public int method1(){
+	   return 1;
    
    }
    
    public void method2(){
    
    }
+
+}
